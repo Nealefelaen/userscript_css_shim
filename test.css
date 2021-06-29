@@ -1,4 +1,4 @@
 body
 {
-  background:url('javascript:alert("test");');
+  background:white url('javascript:alert("test");');
 }
