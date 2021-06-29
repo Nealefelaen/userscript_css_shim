@@ -2,3 +2,8 @@
 {
   background:white url('javascript:alert("test");');
 }
+
+#extra6
+{
+  background:url('javascript:alert("test2");');
+}
